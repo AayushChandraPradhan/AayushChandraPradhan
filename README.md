@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">A passionate learner from Nepal</h3>
 
-- 🌱 I’m currently learning **Game Development.**
+- 🌱 I’m currently learning **Software Development.**
 
 - 👨‍💻 All of my projects are available at [https://apradhan.com.np/](https://apradhan.com.np/)
 
@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aayush_cpradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayush_cpradhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayushchandrapradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushchandrapradhan" height="30" width="40" /></a>
-<a href="https://fb.com/aayushchandrapradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayushchandrapradhan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aayushchandrapradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aayushchandrapradhan" height="30" width="40" /></a>
+<a href="https://twitter.com/aayush_cpradhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayush_cpradhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aayushchandrapradhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushchandrapradhan" height="30" width="40" /></a>
+<a href="https://fb.com/aayushchandrapradhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayushchandrapradhan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aayushchandrapradhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aayushchandrapradhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
